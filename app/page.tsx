@@ -16,7 +16,7 @@ export default function Home() {
       {/* <BackgroundGradientDemo /> */}
       {/* <BackgroundGradientAnimation />
       <BackgroundGradientAnimationDemo /> */}
-      <WavyBackground />
+      {/* <WavyBackground /> */}
       <WavyBackgroundDemo />
     </>
   );

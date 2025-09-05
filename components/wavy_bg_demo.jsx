@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import { WavyBackground } from "../ui/wavy-background";
+import { WavyBackground } from "../components/ui/wavy-background";
 
 export function WavyBackgroundDemo() {
   return (
@@ -13,6 +13,7 @@ export function WavyBackgroundDemo() {
         className="text-base md:text-lg mt-4 text-white font-normal inter-var text-center">
         Leverage the power of canvas to create a beautiful hero section
       </p>
+      {/* <h1>Santhosh</h1> */}
     </WavyBackground>
   );
 }
